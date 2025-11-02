@@ -1,4 +1,4 @@
-# Codebase RAG Project (minimal scaffold)
+# CodeRAG Navigator (minimal scaffold)
 
 This repository contains a minimal scaffold for a Retrieval-Augmented Generation (RAG)
 project. It provides:
